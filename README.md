@@ -7,3 +7,4 @@ value, tokenization, and connected data.
 DGT provides an extremely modular and flexible platform for
 implementing transaction-based updates coordinated by consensus algorithms.
 
+DGT Kawartha is the third Epic of DGT Network named for the Kawartha Lakes in Canada.
