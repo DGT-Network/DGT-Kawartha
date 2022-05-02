@@ -1,3 +1,5 @@
+![Sawtooth=DGT](http://dgt.world/images/logo.svg)
+
 DGT Network
 -------------
 Hello! :raised_hand_with_fingers_splayed:
